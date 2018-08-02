@@ -1,23 +1,8 @@
-# Start Web Project
+# Descriprion
 
-This is example of Github project, which I've forked.
-Add another text
-
+This is example of Github project, which I've forked for learning GIT.
 
 
-## Introduction
-
-This is introduction
-
-## Purpose
-
-Purpose test
-
-## Deployment
-
-This is testing example
 
 
-## How To Contribute
 
-2018 Git.Training
